@@ -1,0 +1,9 @@
+.top, .mid, .bot {
+    display: flex;
+}
+.piece {
+    border: .1rem solid black;
+    padding: .5rem;
+    width: 1.5rem;
+    height: 2rem;
+}
